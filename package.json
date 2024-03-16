@@ -10,6 +10,15 @@
     "type": "git",
     "url": "https://github.com/ohonatseva/earn_378_tea.git"
   },
+  "dependencies": {
+    "tmykol-tea722": "1.0.0",
+    "apktea88n77": "1.0.0",
+    "tea-narnian808": "1.0.0",
+    "rresag_tea": "1.0.0",
+    "polina_9056tyy": "1.0.0",
+    "dodatok_team-tea": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
